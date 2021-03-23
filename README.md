@@ -8,8 +8,7 @@ List of dates and availability - `availability.db`
 
 ## Project Structure
 
-The project contain 5 files
-* templates folder - Inside which `Index.html` file is saved
+The project contain 5 project files and 1 test file
 * application.py
 * crud.py
 * schema.py
